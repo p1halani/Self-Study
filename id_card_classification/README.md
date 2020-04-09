@@ -38,10 +38,13 @@ python3 predict.py
 
 If output == 2:
 	No Visibility
+
 If output == 1:
 	Partial Visibility
+
 If output == 0:
 	Full Visibility
+
 [TODO: Complete this section with how to run the project]
 
 ## Approach
